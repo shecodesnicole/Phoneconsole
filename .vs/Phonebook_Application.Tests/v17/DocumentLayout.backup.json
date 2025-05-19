@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lebohang Nicole\\source\\repos\\Phonebook_Application.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D47EDC60-6A39-4DE2-AE46-E112E76AA4BD}|Phonebook_Application.Tests.csproj|c:\\users\\lebohang nicole\\source\\repos\\phonebook_application.tests\\phonebooktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47EDC60-6A39-4DE2-AE46-E112E76AA4BD}|Phonebook_Application.Tests.csproj|solutionrelative:phonebooktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AE07A3-D967-4ADA-985B-B720A7428373}|..\\Phonebook Application\\Phonebook Application.csproj|c:\\users\\lebohang nicole\\source\\repos\\phonebook application\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47EDC60-6A39-4DE2-AE46-E112E76AA4BD}|Phonebook_Application.Tests.csproj|c:\\users\\lebohang nicole\\source\\repos\\phonebook_application.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47EDC60-6A39-4DE2-AE46-E112E76AA4BD}|Phonebook_Application.Tests.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Lebohang Nicole\\source\\repos\\Phonebook Application\\Contact.cs",
+              "RelativeDocumentMoniker": "..\\Phonebook Application\\Contact.cs",
+              "ToolTip": "C:\\Users\\Lebohang Nicole\\source\\repos\\Phonebook Application\\Contact.cs",
+              "RelativeToolTip": "..\\Phonebook Application\\Contact.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:25:47.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhonebookTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lebohang Nicole\\source\\repos\\Phonebook_Application.Tests\\PhonebookTests.cs",
+              "RelativeDocumentMoniker": "PhonebookTests.cs",
+              "ToolTip": "C:\\Users\\Lebohang Nicole\\source\\repos\\Phonebook_Application.Tests\\PhonebookTests.cs",
+              "RelativeToolTip": "PhonebookTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:24:30.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Lebohang Nicole\\source\\repos\\Phonebook_Application.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Lebohang Nicole\\source\\repos\\Phonebook_Application.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:16:51.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
